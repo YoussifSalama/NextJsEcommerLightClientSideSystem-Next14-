@@ -18,7 +18,7 @@ export default function Cart() {
 
   const fetchCartItems=useCallback(async () => {
     setLoading(true);
-    const response = await fetch(`/cart/${cartGuestId}`);
+    const response = await fetch(`/api/cart/${cartGuestId}`);
     const data = await response.json();
     data && setLoading(false);
     setCartItems(data?.data || []);

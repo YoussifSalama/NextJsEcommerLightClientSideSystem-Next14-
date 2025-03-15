@@ -16,7 +16,7 @@ export default function Order() {
 
   const fetchOrderItems=useCallback(async () => {
     setLoading(true);
-    const response = await fetch(`/order/${orderGuestId}`);
+    const response = await fetch(`/api/order/${orderGuestId}`);
     const data = await response.json();
     data && setLoading(false);
     setOrderItems(data?.data || []);

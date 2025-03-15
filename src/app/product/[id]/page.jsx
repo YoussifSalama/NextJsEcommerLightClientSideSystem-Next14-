@@ -43,7 +43,7 @@ export default function SpecificProduct() {
 
   const [itemQuantity, setItemQuantity] = useState(1);
   const getProductFromCart=async(productId)=>{
-    const res=await fetch(`/cart/product/${productId}`);
+    const res=await fetch(`/api/cart/product/${productId}`);
     const data=await res.json();
     if(data){
       setItemQuantity(data?.data[0]?.quantity);
