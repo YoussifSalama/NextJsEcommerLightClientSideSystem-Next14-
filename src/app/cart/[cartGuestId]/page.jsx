@@ -18,7 +18,7 @@ export default function Cart() {
 
   const fetchCartItems=useCallback(async () => {
     setLoading(true);
-    const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/cart/${cartGuestId}`);
+    const response = await fetch(`/cart/${cartGuestId}`);
     const data = await response.json();
     data && setLoading(false);
     setCartItems(data?.data || []);
