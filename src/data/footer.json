@@ -1,0 +1,82 @@
+[
+  {
+    "title": "company",
+    "items": [
+      {
+        "name": "home",
+        "path": "/"
+      },
+      {
+        "name": "products",
+        "path": "/product"
+      },
+      {
+        "name": "categories",
+        "path": "/category"
+      }
+    ]
+  },
+  {
+    "title": "help",
+    "items": [
+      {
+        "name": "customer support",
+        "path": "/"
+      },
+      {
+        "name": "delivery details",
+        "path": "/"
+      },
+      {
+        "name": "terms & conditions",
+        "path": "/"
+      },
+      {
+        "name": "privacy policy",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "faq",
+    "items": [
+      {
+        "name": "account",
+        "path": "/"
+      },
+      {
+        "name": "manage deliveries",
+        "path": "/"
+      },
+      {
+        "name": "orders",
+        "path": "/"
+      },
+      {
+        "name": "payments",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "resources",
+    "items": [
+      {
+        "name": "free e-books",
+        "path": "/"
+      },
+      {
+        "name": "developement tutorial",
+        "path": "/"
+      },
+      {
+        "name": "how to blog",
+        "path": "/"
+      },
+      {
+        "name": "youtube play list",
+        "path": "/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "rating": 4,
+    "name": "Fiona",
+    "opinion": "Average experience, nothing special."
+  },
+  {
+    "rating": 4,
+    "name": "Alice",
+    "opinion": "Very impressed, exceeded expectations."
+  },
+  {
+    "rating": 5,
+    "name": "Liam",
+    "opinion": "Very satisfied, great value for money."
+  },
+  {
+    "rating": 4,
+    "name": "Quinn",
+    "opinion": "Superb quality and service."
+  },
+  {
+    "rating": 3,
+    "name": "Tina",
+    "opinion": "One of the best experiences I've had!"
+  },
+  {
+    "rating": 4,
+    "name": "Katie",
+    "opinion": "Very impressed, exceeded expectations."
+  },
+  {
+    "rating": 4,
+    "name": "Nathan",
+    "opinion": "Very satisfied, great value for money."
+  },
+  {
+    "rating": 4,
+    "name": "Paul",
+    "opinion": "Not bad, but could be improved."
+  },
+  {
+    "rating": 4,
+    "name": "Fiona",
+    "opinion": "Not bad, but could be improved."
+  },
+  {
+    "rating": 2,
+    "name": "Mona",
+    "opinion": "Okay, but there are better options."
+  },
+  {
+    "rating": 3,
+    "name": "Katie",
+    "opinion": "Absolutely fantastic! Highly recommend."
+  },
+  {
+    "rating": 1,
+    "name": "Tina",
+    "opinion": "Okay, but there are better options."
+  },
+  {
+    "rating": 1,
+    "name": "Mona",
+    "opinion": "One of the best experiences I've had!"
+  },
+  {
+    "rating": 3,
+    "name": "Tina",
+    "opinion": "Not worth the hype."
+  },
+  {
+    "rating": 4,
+    "name": "Emma",
+    "opinion": "Absolutely fantastic! Highly recommend."
+  },
+  {
+    "rating": 4,
+    "name": "Quinn",
+    "opinion": "Service was slow but the product was great."
+  },
+  {
+    "rating": 3,
+    "name": "Jack",
+    "opinion": "Not bad, but could be improved."
+  },
+  {
+    "rating": 2,
+    "name": "Steve",
+    "opinion": "Fantastic! Will definitely return."
+  },
+  {
+    "rating": 4,
+    "name": "Ian",
+    "opinion": "Enjoyed it, but had some issues."
+  },
+  {
+    "rating": 3,
+    "name": "Paul",
+    "opinion": "One of the best experiences I've had!"
+  }
+]
