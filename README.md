@@ -19,8 +19,8 @@ This project is an **e-commerce application** built using modern web technologie
 Clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-nextjs.git
-cd ecommerce-nextjs
+git clone https://github.com/YoussifSalama/NextJsEcommerLightClientSideSystem-Next14-.git
+cd *
 npm install
 ```
 
